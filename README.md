@@ -1,23 +1,22 @@
-# Proposal Website 💍
+# Samiya & Suhin Proposal Website 💍
 
-A polished, mobile-first interactive proposal website.
+A polished, mobile-first interactive proposal website personalized for Samiya and Suhin.
 
 ## Features
 
-- Romantic full-screen design
-- Mobile-friendly fingertip controls
-- A “No” button that moves when touched or approached
-- Animated floating hearts and sparkles
-- Confetti celebration after clicking “Yes”
-- Responsive layout for phones, tablets, and desktops
-- No external libraries or installation required
+- Personalized proposal from Suhin to Samiya
+- Elegant premium glassmorphism design
+- Animated romantic background
+- Touch-friendly mobile interaction
+- A playful “No” button that moves away
+- Personalized success celebration
+- Confetti, hearts, sparkles, and responsive layouts
+- No external libraries required
 
-## Run locally
+## Run
 
 Open `index.html` in any modern browser.
 
-## Publish online
+## Publish
 
-Upload the contents of this folder to GitHub Pages, Netlify, Vercel, or any static web host.
-
-For most hosting services, keep the main file named `index.html`.
+Upload this folder to GitHub Pages, Netlify, Vercel, Firebase Hosting, or another static host. Keep the main file named `index.html`.
